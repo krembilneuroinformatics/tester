@@ -283,7 +283,7 @@ sphinx_gallery_conf = {
     'default_thumb_file': 'img/eeg-notebooks_logo.png',
     'backreferences_dir': 'generated',   # Where to drop linking files between examples & API
     'doc_module': ('eeg-notebooks',),
-    'reference_url': {'eeg-notebooksS': None},
+    'reference_url': {'eeg-notebooks': None},
     'remove_conffig_comments': True,
 }
 
